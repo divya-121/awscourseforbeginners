@@ -1,0 +1,2 @@
+# awscourseforbeginners
+awsbeginprojects
